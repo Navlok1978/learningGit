@@ -1,1 +1,1 @@
-# learningGit
+ I am just learning Git
